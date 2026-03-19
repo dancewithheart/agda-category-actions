@@ -1,2 +1,4 @@
 name: agda-category-actions
 include: src
+depend: standard-library
+
