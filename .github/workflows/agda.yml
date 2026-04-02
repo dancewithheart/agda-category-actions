@@ -19,5 +19,5 @@ jobs:
         with:
           agda-stdlib-version: 'recommended'
 
-      - run: agda CategoryAction/Prelude.agda
+      - run: agda Everything.agda
         working-directory: src
